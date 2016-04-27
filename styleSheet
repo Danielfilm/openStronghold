@@ -1,0 +1,12 @@
+we use camelBack notation for enum variables, variables and methods.
+CamelCase for classes, interfaces and enums
+no fucking CAPS for anything.
+a '{' never goes on a new line.
+try to keep methods on a one page length.
+use singletons for entry points
+use libgdx provided classes and methods as much as possible.
+comment your shit and use meaningful names for everything
+try to limit your classes to a one-trick-pony type. layers of abstraction exist for a reason
+try to think on how other people use your classes. encapsulation, final and abstract keywords do exist
+use static with care.
+more to come...
