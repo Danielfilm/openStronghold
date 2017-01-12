@@ -6,6 +6,7 @@ import com.heerbann.stronghold.EntryPoint;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
+            int BENISSXDDDD = 1488;
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		new LwjglApplication(new EntryPoint(), config);
 	}
